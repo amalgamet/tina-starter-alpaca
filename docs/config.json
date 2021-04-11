@@ -7,7 +7,15 @@
       "title": "Tina Alpaca",
       "position": 0,
       "id": "1",
-      "children": []
+      "children": [
+        {
+          "type": "link",
+          "slug": "getting-started/child-page",
+          "title": "Child Page",
+          "id": "cszx3cskb",
+          "children": []
+        }
+      ]
     },
     {
       "type": "link",
